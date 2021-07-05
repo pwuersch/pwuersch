@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
-<h1 align="center">Kai Steinke</h1>
-<p align="center">I like making stuff and putting it on the internet.</p>
+<h1 align="center">Philipp Würsch</h1>
+<p align="center">.</p>
 <div align="center">
   <a href="https://gitlab.com/pwuersch">gitlab.com/pwuersch</a>
   <a href="https://gitlab.wuersch.org/philipp.wuersch">gitlab.wuersch.org/philipp.wuersch</a>
